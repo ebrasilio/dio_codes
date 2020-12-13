@@ -1,7 +1,11 @@
 # dio_codes
-## git and github basics
 
-### 1- Passos para iniciar projeto e/ou contribuir com projeto já existente:
+Diretório para acompanhamento da trilha SPTech de programador Back-End. Os arquivos de resumo dos cursos e projetos serão compartilhados aqui para facilitar a consulta dos mesmos.
+
+## Conteúdo:
+### git and github basics
+
+#### 1- Passos para iniciar projeto e/ou contribuir com projeto já existente:
 1.1- instale o git: https://git-scm.com/downloads
 
 1.2- inicie o git: 
