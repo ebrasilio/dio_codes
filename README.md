@@ -28,8 +28,4 @@ Antes de iniciar uma modificação, caso outras pessoas trabalhem com você, atu
 - git pull
 
 Caso exista um conflito, o git não aceitará seu merge, como resolver?
-- usar git pull - isso vai trazer as auterações do repositório remoto para o repositório local
-
-
-
--
+- usar git pull - isso vai trazer as auterações do repositório remoto para o repositório local. O git vai trazer do arquivo que está no repositório sem decidir qual modificação está correta, então vc deve abri-lo e verificar o que deve ser mantido. Feita esta correção faça o precesso de atualização novamente e suba o código no repositório remoto, tudo estará em ordem agora.
