@@ -19,5 +19,7 @@ use git config --list para verificar os dados que foram configurados
 - git config --global user.nickename "<nickename igual do github (servido remoto)>"
 
 1.4- criar um projeto inicial 
+antes, porém quero criar um conflito aqui
+preciso ser capaz de resolvê-lo
 
 1.5- clonar um projeto existente 
