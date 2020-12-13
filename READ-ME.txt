@@ -1,1 +1,2 @@
 # Iniciando curso de git
+Em dez2020 curso foi atualizado e melhorado, estou cursando módulo 3.
