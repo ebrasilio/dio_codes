@@ -1,0 +1,17 @@
+# dio_codes
+## git and github basics
+
+### 1- Passos para iniciar projeto e/ou contribuir com projeto já existente:
+1.1- instale o git: https://git-scm.com/downloads
+
+1.2- inicie o git: 
+- crie um diretório para o repositório local
+- dentro dele inicie o git: git init 
+
+1.3- configure o git:
+- git config --global user.name "<nome do usuário">  
+- git config --global user.email "<email do usuário">
+
+1.4- criar um projeto inicial 
+
+1.5- clonar um projeto existente 
