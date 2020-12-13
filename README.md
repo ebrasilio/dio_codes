@@ -13,8 +13,10 @@ Diretório para acompanhamento da trilha SPTech de programador Back-End. Os arqu
 - dentro dele inicie o git: git init 
 
 1.3- configure o git:
+use git config --list para verificar os dados que foram configurados
 - git config --global user.name "<nome do usuário">  
 - git config --global user.email "<email do usuário">
+- git config --global user.nickename "<nickename igual do github (servido remoto)>"
 
 1.4- criar um projeto inicial 
 
